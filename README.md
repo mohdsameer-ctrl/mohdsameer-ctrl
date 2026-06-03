@@ -25,6 +25,9 @@ Building scalable applications, cloud-native infrastructure, and automation solu
 * 🌱 Continuously learning Cloud Native and Modern Infrastructure Technologies
 
 ---
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=mohdsameer-ctrl&theme=tokyonight&no-frame=true&row=1)
 
 ## 🚀 Tech Stack
 
@@ -102,6 +105,10 @@ Built automation scripts, deployment workflows, and infrastructure management so
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsameer-ctrl\&layout=compact\&theme=tokyonight)
 
 ---
+
+## 📈 Contribution Graph
+
+[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohdsameer-ctrl&theme=tokyo-night)](https://github.com/mohdsameer-ctrl)
 
 ## 📫 Connect With Me
 
