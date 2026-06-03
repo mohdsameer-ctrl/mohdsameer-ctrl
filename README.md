@@ -25,7 +25,10 @@ I build scalable web applications and cloud-native infrastructure. My experience
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdsameer-ctrl&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdsameer-ctrl&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsameer-ctrl&layout=compact&theme=tokyonight)
 
 ### DevOps & Cloud Native
 
