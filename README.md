@@ -24,6 +24,7 @@ I build scalable web applications and cloud-native infrastructure. My experience
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdsameer-ctrl&show_icons=true&theme=tokyonight)
@@ -79,4 +80,4 @@ Implemented KrakenD API Gateway with routing, authentication, and rate limiting.
 ## 📫 Connect With Me
 
 * LinkedIn: imsam771
-* GitHub: github.com/imsam771
+* GitHub: github.com/mohdsameer-ctrl
