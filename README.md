@@ -105,7 +105,7 @@ Built automation scripts, deployment workflows, and infrastructure management so
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/mohammad-sameer-9718a0260
+* LinkedIn: https://www.linkedin.com/in/imsam771
 * GitHub: https://github.com/mohdsameer-ctrl
 
 ---
