@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;DevOps+Engineer;Kubernetes+%7C+Docker+%7C+Istio;MERN+Stack+Developer;Cloud+Native+Enthusiast" />
+</p>
+
 # Hi 👋, I'm Mohammad Sameer
 
 ### Software Engineer | MERN Stack Developer | DevOps Engineer
